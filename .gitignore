@@ -1,0 +1,41 @@
+### Flutter ###
+
+# Build artifacts
+/android/app/build/
+/ios/Runner.xcodeproj/xcuserdata/
+/build/
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Local files
+local.properties
+
+# Gradle files
+/android/gradle/
+/android/wrapper/
+
+# Generated files
+/lib/generated/
+
+# Crashlytics files
+crashlytics.properties
+
+# Generated files from build_runner
+*.g.dart
+*.freezed.dart
+*.config.dart
+
+# Logs
+*.log
+
+# Packages
+.packages
+
+# Pub-cache folder
+.pub-cache
+
+# Include the l10n generated files.
+lib/l10n/output/
